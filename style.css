@@ -50,6 +50,8 @@ ul#nav {
 			#header {
 				height: 244px; padding: 52px 0 0 57px;
 				background: url(header-home.jpg);
+				border-style: groove;
+				border-color: cornflowerblue;
 			}
 			
 				#header h1 {
@@ -68,6 +70,8 @@ ul#nav {
 					background: url(bg2.jpg) repeat-y;
 					padding: 57px 69px 50px 69px; overflow: hidden;
 					color: black;
+					border-style: groove;
+					border-color: cornflowerblue;
 				}
 					#content h2 {
 						font: 30px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
@@ -148,7 +152,18 @@ ul#nav {
 						  .btn:hover {
 							background-color: rgb(14, 42, 126);
 						  }
+						  .hea img {
+							float: left;
+							width: 100px;
+							height: 100px;
+							background: #555;
+						  }
 						  
+						  .hea h2 {
+							position: relative;
+							top: 100px;
+							left: 5px;
+						  }
 						  
 						  
 					
