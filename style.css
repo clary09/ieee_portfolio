@@ -51,7 +51,7 @@ ul#nav {
 				height: 244px; padding: 52px 0 0 57px;
 				background: url(header-home.jpg);
 				border-style: groove;
-				border-color: cornflowerblue;
+				border-color: rgb(128, 156, 209);
 			}
 			
 				#header h1 {
@@ -71,7 +71,7 @@ ul#nav {
 					padding: 57px 69px 50px 69px; overflow: hidden;
 					color: black;
 					border-style: groove;
-					border-color: cornflowerblue;
+					border-color: rgb(142, 171, 226);
 				}
 					#content h2 {
 						font: 30px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
