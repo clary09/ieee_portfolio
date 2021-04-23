@@ -6,7 +6,8 @@ body, div,h1,  h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldse
 
 body {
 	background: #f2f0eb url('./bg2.jpg');
-	font: 16px Helvetica, Arial, Sans-Serif; color: #636363; line-height: 24px;
+	font: 16px; color: #636363; line-height: 24px;
+	font-family: cursive;
 }
 
 #container {
@@ -48,19 +49,21 @@ ul#nav {
 				color: #a12121;
 			}
 			#header {
-				height: 244px; padding: 52px 0 0 57px;
+				height: 244px; padding: 65px 0 0 57px;
 				background: url(header-home.jpg);
 				border-style: groove;
 				border-color: rgb(128, 156, 209);
 			}
 			
 				#header h1 {
-					font: 38px Georgia, Serif; color: #f2f0eb; letter-spacing: 2px; margin: 0 0 20px 0;
+					font: 38px ; color: #f2f0eb; letter-spacing: 2px; margin: 0 0 20px 0;
 					text-shadow: 0px 3px 3px #0e0404;
+					font-family: cursive;
 				}
 				#header h2 {
-					width: 510px; font: 30px Georgia, Serif; color: #f2f0eb; letter-spacing: 2px; margin: 0 0 20px 0;
+					width: 510px; font: 30px ; color: #f2f0eb; letter-spacing: 2px; margin: 0 0 20px 0;
 					text-shadow: 0px 3px 3px #030303;
+					font-family: cursive;
 				}
 				#header p.btn a {
 					display: block; width: 225px; height: 50px; overflow: hidden;
@@ -74,14 +77,17 @@ ul#nav {
 					border-color: rgb(142, 171, 226);
 				}
 					#content h2 {
-						font: 30px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
+						font: 30px ; letter-spacing: 2px; margin: 0 0 20px 0;
+						font-family: cursive;
 					}
 				
 					#content h3 {
-						font: 26px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
+						font: 26px ; letter-spacing: 2px; margin: 0 0 20px 0;
+						font-family: cursive;
 					}
 					#content h4 {
-						font: 26px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
+						font: 26px ; letter-spacing: 2px; margin: 0 0 20px 0;
+						font-family: cursive;
 					}
 					
 					#content p {
