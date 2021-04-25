@@ -143,7 +143,7 @@ ul#nav {
 						  }
 						  .column4 {
 							float: left;
-							width: 70%;
+							width: 55%;
 							margin-bottom: 16px;
 							padding: 0 8px;
 						  }
@@ -208,6 +208,33 @@ ul#nav {
 						  img.card5{
 							  border-radius: 100%;
 						  }
+						  img.soci{
+							border:100px;
+							border-radius: 130px;
+							padding-left: 40px;
+							padding-right: 40px;
+						}
+						p.socic{
+							text-align: center;
+						}
+						img.skills
+						{
+							 border: 10px;
+							border-radius: 50%;
+							padding-left: 20px;
+							padding-right: 17px;
+						}
+						img.codf{
+							border: 10px;
+							border-radius: 10px;
+							padding-left: 25px;
+							padding-right: 20px;
+						}
+						img.pro{
+							border: 10px;
+							border-radius: 10px;
+						  
+						}
 						  
 						  
 					
