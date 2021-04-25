@@ -187,9 +187,7 @@ ul#nav {
 						  }
 						  
 						  /* Darker background on mouse-over */
-						  .soci:hover {
-							background-color: rgb(122, 218, 221);
-						  }
+						 
 						  .column5 {
 							float: left;
 							width: 40%;
@@ -235,6 +233,39 @@ ul#nav {
 							border-radius: 10px;
 						  
 						}
+						.glow {
+							
+							color: #fff;
+							
+							
+							animation: glow 1s ease-in-out infinite alternate;
+						  }
+						  
+						  @-webkit-keyframes glow {
+							from {
+							  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #acb6a5, 0 0 40px #cc0ebc, 0 0 50px #57f393, 0 0 60px #f1ff2f, 0 0 70px #d86cd8;
+							}
+							
+							to {
+							  text-shadow: 0 0 20px #fff, 0 0 30px #e9eeba, 0 0 40px #2cc4d8, 0 0 50px #59f387, 0 0 60px #d629ce, 0 0 70px #0acf8e, 0 0 80px #7c0d97;
+							}
+						  }
+						 
+						  .column4:hover {
+							background-color: rgb(144, 208, 233);
+						  }
+						  .card2:hover {
+							background-color: rgb(223, 152, 219);
+						  }
+						  .card5:hover {
+							background-color: rgb(241, 158, 214);
+						  }
+						  .card:hover {
+							background-color: rgb(102, 236, 102);
+						  }
+						  #nav:hover {
+							background-color: rgb(148, 74, 190);
+						  }
 						  
 						  
 					
