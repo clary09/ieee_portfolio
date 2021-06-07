@@ -1,6 +1,5 @@
 # ieee_portfolio
 Portfolio link: https://clary09.github.io/my_portfolio/
 
-NAME:AIN FATIMA
-
-ABOUT: This was my first experience with the front end development. The overall experience was good. I learnt new things and there were times when I got stuck(thanks to the seniors who helped me in solving my problems). I tried my best to beautify and organize my portfolio as much as it was possible. 
+##### This is my personal portfolio made using html, css and a little bit of Javascript(for extracting codeforces info).
+###### It consists of Home page (it gives a brief summary of the website),About Page(describes me),Skills Page(describes my skills) and Projects Page(describes my projects).
